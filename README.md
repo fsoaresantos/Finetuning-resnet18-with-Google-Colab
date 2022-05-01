@@ -7,4 +7,6 @@ how to train the model with a fixed learning rate and with discriminative learni
 and finally, how to visualize model predictions.
 
 Keywords:
-CNN, resnet18, CIFAR-10, finetuning, pretrained model, fully connected layer, CNN block, unfreezing CNN layers, fixed learning rate, discriminative learning rates
+Convolutional Neural Network, image classification, resnet18, pretrained model, transfer learning, finetuning, GPU, CIFAR-10, CNN block, unfreezing CNN layers, fully connected layer, fixed learning rate, discriminative learning rates
+
+
