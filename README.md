@@ -1,4 +1,4 @@
-# finetuning-resnet18-with-Google-Colab
+# Finetuning-resnet18-with-Google-Colab
 
 This project is about finetunning resnet18 model using CIFAR-10 dataset.
 It illustrates:
